@@ -5,7 +5,6 @@
 ### Skills
 -HTML
 -CSS
-dadada
 -Bootstrap
 -Scratch
 ### GitHub: https://github.com/Ann-BB
